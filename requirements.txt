@@ -1,0 +1,5 @@
+nltk
+numpy
+tflearn
+tensorflow
+Sastrawi
